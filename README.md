@@ -1,4 +1,5 @@
-- 👋 Olá, sou @ireneegler, sou de Brasília-DF e estudo programação com linguagem C# .NET!
+- 👋 Olá, sou @ireneegler, sou de Brasília-DF e estudo programação com linguagem C# (.NET Framework)!
+
 
 <!---
 ireneegler/ireneegler is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
